@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279377597916",
+    "project_id": "wordle-40cc4",
+    "storage_bucket": "wordle-40cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279377597916:android:3e5f35c0f073ba5cad6b19",
+        "android_client_info": {
+          "package_name": "com.wordle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279377597916-64ga84ooha2kh7bg1gqekp8e59ie5gr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzj0TreDw2FHt6gD3cu-eXBKovHA33z_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279377597916-64ga84ooha2kh7bg1gqekp8e59ie5gr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
